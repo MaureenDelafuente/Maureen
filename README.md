@@ -16,9 +16,11 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"> <img src="https://d3373sevsv1jc.cloudfront.net/uploads/communities_production/article_block/16221/8DB868584B814C0E9B5BC0B72B420A19.png" alt="EntityFramework" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"> <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="EntityFramework" width="40" height="40"/> </a>
 
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"> <img src="https://logowik.com/content/uploads/images/blazor1720789407.logowik.com.webp" alt="blazor" width="40" height="40"/> </a>
+
+
 <!--
 **MaureenDelafuente/MaureenDelafuente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
