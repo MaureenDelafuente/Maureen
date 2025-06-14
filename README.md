@@ -17,7 +17,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"> <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="EntityFramework" width="40" height="40"/> </a>
-<a href="https://workspace.google.com/marketplace/app/lucidchart/7081045131"> <img srfc="https://store-images.s-microsoft.com/image/apps.21470.0d68eb0c-3794-4e04-bc3c-5ba740505a6b.aab178a6-9723-4bed-928b-5960ab04b7c1.cf9efa9f-8b1b-4da5-8ff5-557856986e2f.png" alt="lucidchart" width="40" height="40"/> </a> 
+<a href="https://workspace.google.com/marketplace/app/lucidchart/7081045131"> <img src="https://store-images.s-microsoft.com/image/apps.21470.0d68eb0c-3794-4e04-bc3c-5ba740505a6b.aab178a6-9723-4bed-928b-5960ab04b7c1.cf9efa9f-8b1b-4da5-8ff5-557856986e2f.png" alt="lucidchart" width="40" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"> <img src="https://logowik.com/content/uploads/images/blazor1720789407.logowik.com.webp" alt="blazor" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/design/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVIL5HpOsOFQWomhpmB5b8lTVQ9rIVnV9fg&s" alt="figma" width="40" height="40"/> </a> 
 
